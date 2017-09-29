@@ -7,11 +7,6 @@ body, html {
 
 nav.navbar {
   background: transparent;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right:0;
-  padding: 16px;
 }
 
 .header {
@@ -26,7 +21,7 @@ nav.navbar {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  /*margin-top:-56px;*/
+  margin-top:-56px;
 }
 
 #header_content{
